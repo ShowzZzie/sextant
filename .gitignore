@@ -227,3 +227,14 @@ __marimo__/
 
 .env.*
 !.env.example
+
+# Claude's approach to agentic evals
+Anthropic_Automating_Evals.html
+
+# Local scratch scripts and data
+scratch/
+docs/
+
+# Full posting texts: local only
+data/golden/
+data/*_example.json
