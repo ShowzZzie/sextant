@@ -1,0 +1,28 @@
+repos:
+  - repo: local            # "local" = run tools from MY project, not downloaded copies
+    hooks:
+      - id: ruff-check
+        name: ruff lint
+        entry: uv run ruff check --fix   # the command to run; --fix auto-repairs simple issues
+        language: system                 # "just run this command as-is"
+        types: [python]                  # only trigger when .py files are in the commit
+
+      - id: ruff-format
+        name: ruff format
+        entry: uv run ruff format
+        language: system
+        types: [python]
+
+      - id: mypy
+        name: mypy
+        entry: uv run mypy src tests     # check these folders
+        language: system
+        types: [python]
+        pass_filenames: false            # don't append file names; check whole folders
+
+      - id: pytest
+        name: pytest
+        entry: uv run pytest
+        language: system
+        types: [python]
+        pass_filenames: false            # run the whole test suite, not per file
