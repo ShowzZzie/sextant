@@ -7,7 +7,9 @@ authors = [
     { name = "ShowzZzie", email = "showzzzie@gmail.com" }
 ]
 requires-python = ">=3.14"
-dependencies = []
+dependencies = [
+    "sqlmodel>=0.0.50",
+]
 
 [project.scripts]
 sextant = "sextant:main"
