@@ -44,13 +44,13 @@ class NormalizedRecord(sqlmodel.SQLModel):
     company: str
     job_title: str
     job_url: str
-    department: str | None = sqlmodel.Field(
-        default=None
+    departments: list[str] = sqlmodel.Field(
+        default_factory=list
     )  # keeping it in case API doesn't have this, or employer doesn't list it
     location: list[str] = sqlmodel.Field(default_factory=list)
     work_type: WorkType | None = sqlmodel.Field(
         default=None
-    )  # Greenhouse doesn't provide this, needs to be optional
+    )  # optional: not every board/company provides it
     employment_type: EmploymentType | None = sqlmodel.Field(default=None)
     published_at: datetime.datetime
     description: str

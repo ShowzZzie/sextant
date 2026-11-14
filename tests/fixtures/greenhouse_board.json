@@ -1,0 +1,280 @@
+{
+    "jobs": [
+      {
+        "absolute_url": "https://job-boards.greenhouse.io/anthropic/jobs/4461450008",
+        "data_compliance": [
+          {
+            "type": "gdpr",
+            "requires_consent": false,
+            "requires_processing_consent": false,
+            "requires_retention_consent": false,
+            "retention_period": null,
+            "demographic_data_consent_applies": false
+          }
+        ],
+        "internal_job_id": 4147866008,
+        "location": {
+          "name": "New York City, NY; San Francisco, CA | New York City, NY"
+        },
+        "metadata": [
+          {
+            "id": 4036944008,
+            "name": "Location Type",
+            "value": "On-Site",
+            "value_type": "single_select"
+          }
+        ],
+        "id": 4461450008,
+        "updated_at": "2026-08-21T21:32:54-04:00",
+        "requisition_id": "3356",
+        "title": "Account Executive, AI Native",
+        "company_name": "Anthropic",
+        "first_published": "2024-12-20T13:53:38-05:00",
+        "language": "en",
+        "application_deadline": null,
+        "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt;&lt;p&gt;Anthropic builds reliable, interpretable AI systems.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;About the role&lt;/h2&gt;&lt;p&gt;As a AI Native Account Executive at Anthropic, you’ll drive adoption of safe, frontier AI by securing strategic deals with some of the fastest growing startups in the world.&lt;/p&gt;",
+        "departments": [
+          {
+            "id": 4002062008,
+            "name": "Sales",
+            "child_ids": [],
+            "parent_id": null
+          }
+        ],
+        "offices": [
+          {
+            "id": 4001219008,
+            "name": "New York City, NY",
+            "location": "New York, New York, United States",
+            "child_ids": [],
+            "parent_id": null
+          },
+          {
+            "id": 4001218008,
+            "name": "San Francisco, CA",
+            "location": "San Francisco, California, United States",
+            "child_ids": [],
+            "parent_id": null
+          }
+        ],
+        "ai_disclaimer": null,
+        "include_ai_disclaimer": null,
+        "ai_opt_out_request_url": null
+      },
+      {
+        "absolute_url": "https://job-boards.greenhouse.io/anthropic/jobs/5452922008",
+        "data_compliance": [
+          {
+            "type": "gdpr",
+            "requires_consent": false,
+            "requires_processing_consent": false,
+            "requires_retention_consent": false,
+            "retention_period": null,
+            "demographic_data_consent_applies": false
+          }
+        ],
+        "internal_job_id": 4562058008,
+        "location": {
+          "name": "Remote-Friendly, United States"
+        },
+        "metadata": [
+          {
+            "id": 4036944008,
+            "name": "Location Type",
+            "value": "Remote",
+            "value_type": "single_select"
+          }
+        ],
+        "id": 5452922008,
+        "updated_at": "2026-10-15T12:10:07-04:00",
+        "requisition_id": "REQ-26-0997-01",
+        "title": "Community Engagement Manager, Data Centers (New York)",
+        "company_name": "Anthropic",
+        "first_published": "2026-10-15T12:10:07-04:00",
+        "language": "en",
+        "application_deadline": null,
+        "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt;&lt;p&gt;Anthropic builds reliable, interpretable AI systems.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;About the role&lt;/h2&gt;&lt;p&gt;Anthropic is building AI systems that will shape the trajectory of one of the most consequential technologies in human history.&lt;/p&gt;",
+        "departments": [
+          {
+            "id": 4002056008,
+            "name": "Public Policy",
+            "child_ids": [],
+            "parent_id": null
+          }
+        ],
+        "offices": [
+          {
+            "id": 4008537008,
+            "name": "Remote-Friendly US (Travel Required)",
+            "location": null,
+            "child_ids": [],
+            "parent_id": null
+          }
+        ],
+        "ai_disclaimer": null,
+        "include_ai_disclaimer": null,
+        "ai_opt_out_request_url": null
+      },
+      {
+        "absolute_url": "https://job-boards.greenhouse.io/anthropic/jobs/4423394008",
+        "data_compliance": [
+          {
+            "type": "gdpr",
+            "requires_consent": false,
+            "requires_processing_consent": false,
+            "requires_retention_consent": false,
+            "retention_period": null,
+            "demographic_data_consent_applies": false
+          }
+        ],
+        "internal_job_id": 4130023008,
+        "location": {
+          "name": "San Francisco, CA | New York City, NY"
+        },
+        "metadata": [
+          {
+            "id": 4036944008,
+            "name": "Location Type",
+            "value": "Hybrid (Travel-Required)",
+            "value_type": "single_select"
+          }
+        ],
+        "id": 4423394008,
+        "updated_at": "2026-09-29T12:27:05-04:00",
+        "requisition_id": "3326",
+        "title": "Growth Account Executive, AI Native",
+        "company_name": "Anthropic",
+        "first_published": "2024-12-05T17:14:32-05:00",
+        "language": "en",
+        "application_deadline": null,
+        "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt;&lt;p&gt;Anthropic builds reliable, interpretable AI systems.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;About the role&lt;/h2&gt;&lt;p&gt;As a Growth Account Executive at Anthropic, you&#x27;ll drive expansion and retention of our fastest-growing startup customers by helping them harness the transformative potential of safe, frontier AI.&lt;/p&gt;",
+        "departments": [
+          {
+            "id": 4002062008,
+            "name": "Sales",
+            "child_ids": [],
+            "parent_id": null
+          }
+        ],
+        "offices": [
+          {
+            "id": 4001219008,
+            "name": "New York City, NY",
+            "location": "New York, New York, United States",
+            "child_ids": [],
+            "parent_id": null
+          },
+          {
+            "id": 4001218008,
+            "name": "San Francisco, CA",
+            "location": "San Francisco, California, United States",
+            "child_ids": [],
+            "parent_id": null
+          }
+        ],
+        "ai_disclaimer": null,
+        "include_ai_disclaimer": null,
+        "ai_opt_out_request_url": null
+      },
+      {
+        "absolute_url": "https://job-boards.greenhouse.io/anthropic/jobs/5079916008",
+        "data_compliance": [
+          {
+            "type": "gdpr",
+            "requires_consent": false,
+            "requires_processing_consent": false,
+            "requires_retention_consent": false,
+            "retention_period": null,
+            "demographic_data_consent_applies": false
+          }
+        ],
+        "internal_job_id": 4408093008,
+        "location": {
+          "name": "New York City, NY; San Francisco, CA"
+        },
+        "metadata": [
+          {
+            "id": 4036944008,
+            "name": "Location Type",
+            "value": null,
+            "value_type": "single_select"
+          }
+        ],
+        "id": 5079916008,
+        "updated_at": "2026-08-24T15:31:48-04:00",
+        "requisition_id": "12172",
+        "title": "Growth Account Executive, Startups",
+        "company_name": "Anthropic",
+        "first_published": "2026-01-21T16:21:10-05:00",
+        "language": "en",
+        "application_deadline": null,
+        "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt;&lt;p&gt;Anthropic builds reliable, interpretable AI systems.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;About the role&lt;/h2&gt;&lt;p&gt;As a Growth Account Executive, Startups at Anthropic, you&#x27;ll manage a portfolio of startup customers and help them harness the transformative potential of safe, frontier AI.&lt;/p&gt;",
+        "departments": [
+          {
+            "id": 4002062008,
+            "name": "Sales",
+            "child_ids": [],
+            "parent_id": null
+          }
+        ],
+        "offices": [
+          {
+            "id": 4001218008,
+            "name": "San Francisco, CA",
+            "location": "San Francisco, California, United States",
+            "child_ids": [],
+            "parent_id": null
+          }
+        ],
+        "ai_disclaimer": null,
+        "include_ai_disclaimer": null,
+        "ai_opt_out_request_url": null
+      },
+      {
+        "absolute_url": "https://job-boards.greenhouse.io/anthropic/jobs/5382033008",
+        "data_compliance": [
+          {
+            "type": "gdpr",
+            "requires_consent": false,
+            "requires_processing_consent": false,
+            "requires_retention_consent": false,
+            "retention_period": null,
+            "demographic_data_consent_applies": false
+          }
+        ],
+        "internal_job_id": 4528433008,
+        "location": {
+          "name": "San Francisco, CA"
+        },
+        "id": 5382033008,
+        "updated_at": "2026-08-21T12:50:47-04:00",
+        "requisition_id": "266470",
+        "title": "GSOC Response & Policy Program Specialist",
+        "company_name": "Anthropic",
+        "first_published": "2026-08-07T20:49:01-04:00",
+        "language": "en",
+        "application_deadline": null,
+        "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt;&lt;p&gt;Anthropic builds reliable, interpretable AI systems.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;About the role&lt;/h2&gt;&lt;p&gt;We are seeking a GSOC Response &amp;amp; Policy Program Specialist to define how Anthropic&#x27;s Global Security Operations Center detects, responds to, and recovers from incidents affecting our people, facilities, and operations.&lt;/p&gt;",
+        "departments": [
+          {
+            "id": 4002063008,
+            "name": "Security",
+            "child_ids": [],
+            "parent_id": null
+          }
+        ],
+        "offices": [
+          {
+            "id": 4001218008,
+            "name": "San Francisco, CA",
+            "location": "San Francisco, California, United States",
+            "child_ids": [],
+            "parent_id": null
+          }
+        ],
+        "ai_disclaimer": null,
+        "include_ai_disclaimer": null,
+        "ai_opt_out_request_url": null
+      }
+    ]
+  }
