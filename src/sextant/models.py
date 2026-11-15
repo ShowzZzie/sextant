@@ -44,10 +44,8 @@ class NormalizedRecord(sqlmodel.SQLModel):
     company: str
     job_title: str
     job_url: str
-    departments: list[str] = sqlmodel.Field(
-        default_factory=list
-    )  # keeping it in case API doesn't have this, or employer doesn't list it
-    location: list[str] = sqlmodel.Field(default_factory=list)
+    departments: list[str] = sqlmodel.Field(default_factory=list)
+    locations: list[str] = sqlmodel.Field(default_factory=list)
     work_type: WorkType | None = sqlmodel.Field(
         default=None
     )  # optional: not every board/company provides it
