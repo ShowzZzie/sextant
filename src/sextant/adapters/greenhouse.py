@@ -2,6 +2,7 @@ import datetime
 import html
 from typing import Any
 
+import httpx
 from bs4 import BeautifulSoup
 
 from sextant.models import NormalizedRecord, SalarySource, SourceAPI, WorkType
@@ -15,7 +16,13 @@ WORK_TYPE_MAP: dict[str, WorkType] = {
 
 def fetch(token: str) -> dict[str, Any]:
     """Retrieve the JSON file from the internet"""
-    raise NotImplementedError
+    company_board_url = (
+        f"https://boards-api.greenhouse.io/v1/boards/{token}/jobs?content=true"
+    )
+    resp = httpx.get(company_board_url)
+    resp.raise_for_status()
+    result: dict[str, Any] = resp.json()
+    return result
 
 
 def parse(
